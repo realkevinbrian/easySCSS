@@ -1,0 +1,26 @@
+{
+  "name": "easyscss",
+  "version": "1.0.0",
+  "description": "Easy scss library built to make frontend easy @built by Kevinbrian",
+  "main": "index.js",
+  "scripts": {
+    "test": "exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/realkevinbrian/easySCSS.git"
+  },
+  "keywords": [
+    "scss",
+    "css",
+    "cssframeword",
+    "sass",
+    "easyscss"
+  ],
+  "author": "Kevin Brian",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/realkevinbrian/easySCSS/issues"
+  },
+  "homepage": "https://github.com/realkevinbrian/easySCSS#readme"
+}
